@@ -1,0 +1,12 @@
+# db
+/postgres/db
+
+# static files
+/public/
+
+# python
+*.pyc
+/django/venv/
+
+# env
+.env
